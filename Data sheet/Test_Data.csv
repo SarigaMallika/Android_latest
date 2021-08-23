@@ -1,0 +1,102 @@
+Field_Data,Field_data_iter1
+signup_first_name,"#@2323##$$ ,Arnav"
+signup_last_name,"23##re,A"
+signup_email_id,"Testempgmail.com,Aarav123@mail.com,test123@mail.com"
+signup_phone_number,"222555 ,22255523234578 ,2225555131,4442041167"
+signup_password,"Welcome@1,Aarav@97"
+signup_confirm_password,"Welcome@,Welcome@1,Aarav@97"
+signup_firstname_valid_msg,Invalid first name
+signup_lastname_valid_msg,Invalid last name
+signup_email_invalid_msg,Invalid email
+signup_email_blank_msg,Email ID required
+signup_less_ten_msg,Phone number should be 10 digit number
+signup_more_ten_msg,Phone number should be 10 digit number
+signup_exist_no_msg,Phone no already exists.
+otp_1,1
+otp_2,2
+otp_3,3
+otp_4,4
+login_invalid_msg,"Invalid username or password, please try again."
+forgot_phone_number,"5,55,12,34,78,91,21,75,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,000"
+forgot_phoneno_required_msg,Phone number required
+forgot_less_no_msg,Phone number should be 10 digit number
+forgot_nonreg_no_msg,Phone number doesn't exists
+login_invalid_msg,"Invalid username or password, please try again."
+signup_exist_no_msg,Phone no already exists.
+login_phone_number,"4445558881 ,33355567898 ,2224448 ,4443336662 ,2223335551 ,5541754301 ,4442033523 ,4445556666 ,4448882340 ,5551234789 ,2288554499 ,8881234789"
+login_password,"Sariga27#@,GetMpowered@1,Welcome@1,Itsmetony@123,Eddie@123"
+card_no,1234
+expiration_date,4
+cvc,8
+postal_code,44
+phone_no,"7,86,54,44,441"
+account_holder_name,123#
+routing_no,45
+account_no,ab
+save_as,1
+phone_no_valid_msg,Phone number required
+add_line_one_valid_msg,Field required
+state_valid_msg,Field required
+city_valid_msg,Field required
+save_as_valid_msg,Field required
+account_holder_name_valid_msg,Invalid name
+routing_no_valid_msg,Routing number should be 9 digit number
+account_no_valid_msg,Invalid account number
+account_holder_name_valid_msg_two,Full name required
+routing_no_valid_msg_two,Required
+account_no_valid_msg_two,Required
+save_as_valid_msg_two,Required
+redeem_points_giftcard,adidas Gift Card
+redeem_points_amount,"50,0,20"
+amount_exceed_valid_msg,Amount exceeds range
+amount_less_valid_msg,Amount is too less
+circles_mymedicare_username,"BBUser27961,bbuser12"
+circles_mymedicare_password,"PW27961!,pw12"
+bills_newest,Newest
+bills_slide,$0
+prof_otp,1234
+prof_fname,Sariga
+prof_lname,Sajeev
+prof_pname,Sariga M S
+prof_gender,Female
+prof_blood_group,A+ve
+prof_email_field,deepika1234@gmail.com
+prof_deactivate,Deactivate
+prof_add_phone_number_field,5552345897
+prof_save_as,Office
+prof_add1,777 Brockton Avenue
+prof_add2,Abington MA 2351
+prof_city,Abington
+prof_state,Massachusetts
+prof_zip,2139
+prof_plan_insurer_name,HDFC Life Insurance
+prof_plan_fn_policy_holder,Mr.Tony
+prof_plan_ln_policy_holder,Varghese
+prof_plan_relationship,Self
+prof_plan_mid,HDFCPID01234
+prof_plan_gid,HDFCGID012344
+prof_plan_type,Silver
+prof_old_password,Sariga27*@
+prof_new_password,Sariga27*@1
+prof_confirm_password,Sariga27*@1
+refer_frnd_home_text,Tell your friends about Mpowered Health
+refer_frnd_referral_code,SARI613a
+award_points_title,Award points
+award_point_balance_text,Balance
+award_point_balance_amount,"3,500"
+award_point_history_text,Your award points history
+award_point_welcome_bonus_text,Welcome bonus.
+award_point_available_point_text,Available award points
+available_award_points_value,3500
+redeem_award_points_title,Redeem award points
+award_points_to_redeem_text,Award points to redeem
+award_point_to_redeem_value,0
+award_point_email_label,Email ID
+award_point_email_value,test123@mail.com
+gift_card,adidas Gift card
+award_point_popup_title,Reward description
+redeemed_page_title,Redeemed
+redeem_page_text,2000 Mpowered Award Points redeemed!
+redeem_page_giftcard_text,You have availed this gift card
+redeemed_gift_card_text,Redeemed adidas Gift Card
+award_point_amount_field,20
